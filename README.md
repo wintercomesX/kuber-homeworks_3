@@ -9,7 +9,7 @@
 
 ## Задание 2
 
-[Code](https://github.com/wintercomesX/kuber-homeworks_1.2/blob/main/kube2.1.PNG)
+[Code](https://github.com/wintercomesX/kuber-homeworks_3/tree/main/code2)
 
 ![k8s](https://github.com/wintercomesX/kuber-homeworks_1.2/blob/main/kube2.3.PNG)
 
