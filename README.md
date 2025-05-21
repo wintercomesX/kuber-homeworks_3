@@ -7,8 +7,6 @@
 
 ![k8s](https://github.com/wintercomesX/kuber-homeworks_3/blob/main/kube3.1.PNG)
 
-![k8s](https://github.com/wintercomesX/kuber-homeworks_3/blob/main/kube3.2.PNG)
-
 ![k8s](https://github.com/wintercomesX/kuber-homeworks_3/blob/main/kube3.3.PNG)
 
 ## Задание 2
